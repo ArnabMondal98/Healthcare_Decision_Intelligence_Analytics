@@ -25,7 +25,7 @@ warnings.filterwarnings('ignore')
 class ModelManager:
     """Manages ML models with persistence and caching"""
     
-    MODEL_DIR = Path('/app/backend/models')
+    MODEL_DIR = Path('/tmp/models')
     
     def __init__(self):
         self.models: Dict[str, Any] = {}
