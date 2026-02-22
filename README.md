@@ -190,16 +190,30 @@ Hosted using Streamlit Community Cloud (Free Tier).
 Models are stored in /tmp due to cloud filesystem permissions and retrain after restart.
 
 💻 Local Setup
+
 Clone Repository
+
 git clone https://github.com/<your-username>/<repo>
+
 cd Healthcare-Decision-Intelligence-Analytics
+
 Install Dependencies
+
 pip install -r requirements.txt
+
 Run Application
+
 streamlit run backend/run_streamlit.py
+
 📸 Screenshots
 
-Add screenshots here for maximum recruiter impact.
+<p align="center"> <img src="screenshots/dashboard.png" width="900"/> </p>
+<p align="center"> <img src="screenshots/validate2.png" width="900"/> </p>
+<p align="center"> <img src="screenshots/EDA.png" width="900"/> </p>
+<p align="center"> <img src="screenshots/EDA2.png" width="900"/> </p>
+<p align="center"> <img src="screenshots/model.png" width="900"/> </p>
+<p align="center"> <img src="screenshots/model2.png" width="900"/> </p>
+<p align="center"> <img src="screenshots/riskpredictions.png" width="900"/> </p>
 
 Recommended:
 
