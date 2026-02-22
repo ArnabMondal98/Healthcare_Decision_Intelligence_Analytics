@@ -230,7 +230,7 @@ Feature Importance Chart
 Arnab Mondal
 Data Analyst | Power BI | Data Visualization | Data Engineering |
 
-🔗 LinkedIn: https://www.linkedin.com/in/arnab-mondal-108966244
+🔗 LinkedIn: https://www.linkedin.com/in/arnabmondal98/
 
 💻 GitHub: https://github.com/ArnabMondal98
 
